@@ -28,8 +28,7 @@ Welcome to the URL Shortener Service! Your unique UUID: f50d7a9b-519a-4a2d-9d55-
 Shorten URL
 Access a short URL
 Exit
-markdown
-Копировать
+
 
 ## Поддерживаемые команды
 
@@ -40,8 +39,6 @@ markdown
 Пример:
 Enter the long URL: https://www.example.com Enter click limit: 5 Shortened URL: clck.ru/abc123
 
-markdown
-Копировать
 
 2. **Access a short URL**:
 - Введите короткую ссылку для перехода. Важно помнить, что перед вводом ссылки нужно удалить префикс `clck.ru/`.
@@ -49,8 +46,6 @@ markdown
 Пример:
 Enter the short URL: abc123
 
-markdown
-Копировать
 
 3. **Exit**:
 - Завершить программу.
